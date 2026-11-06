@@ -187,8 +187,8 @@ python-pptx
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/AthJa/predictive-project-final>
-cd "project"
+git clone https://github.com/AthJa/predictive-project-final
+cd "predictive-project-final"
 ```
 
 ### 2. Create and activate a virtual environment
